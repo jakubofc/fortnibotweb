@@ -1630,7 +1630,7 @@ a {
 .cid-s48udlf8KU {
   padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #bed3f9;
+  background-color: #2299aa;
 }
 .cid-s48udlf8KU .mbr-section-title {
   text-align: left;
@@ -1641,7 +1641,7 @@ a {
 .cid-t2ZMA8C7J4 {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-image: url("../../../assets/images/background8.jpg");
+  background-color: #2299aa;
 }
 .cid-t2ZMA8C7J4 .card-wrapper {
   background: #4479d9;
@@ -1668,6 +1668,38 @@ a {
 }
 .cid-t2ZMA8C7J4 .card-title,
 .cid-t2ZMA8C7J4 .card-box {
+  text-align: left;
+}
+.cid-tgzd139sOk {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #2299aa;
+}
+.cid-tgzd139sOk .card-wrapper {
+  background: #4479d9;
+  border-radius: 4px;
+}
+@media (max-width: 767px) {
+  .cid-tgzd139sOk .card-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-tgzd139sOk .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tgzd139sOk .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-tgzd139sOk .mbr-text,
+.cid-tgzd139sOk .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-tgzd139sOk .card-title,
+.cid-tgzd139sOk .card-box {
   text-align: left;
 }
 .cid-s48vnjULo4 {
